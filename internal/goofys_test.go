@@ -15,7 +15,7 @@
 package internal
 
 import (
-	. "github.com/kahing/goofys/api/common"
+	. "github.com/AITRICS/goofys/api/common"
 
 	"bufio"
 	"bytes"
@@ -47,7 +47,7 @@ import (
 	"github.com/Azure/go-autorest/autorest/azure"
 	azureauth "github.com/Azure/go-autorest/autorest/azure/auth"
 
-	"github.com/kahing/go-xattr"
+	"github.com/AITRICS/go-xattr"
 
 	"github.com/jacobsa/fuse"
 	"github.com/jacobsa/fuse/fuseops"
